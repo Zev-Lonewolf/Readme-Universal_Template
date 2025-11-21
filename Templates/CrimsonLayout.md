@@ -36,3 +36,27 @@
   <!-- Editor (troque 'Editor'/'Example' ou o ícone logo=codepen) -->
   <img src="https://img.shields.io/badge/Editor-Example-E92063?style=flat-square&logo=codepen&logoColor=white"/>
 </p>
+
+---
+
+<!-- TABLE OF CONTENTS (edite apenas os textos dos tópicos abaixo) -->
+<details><summary><b>📋 Table of Contents</b></summary>
+
+- [Overview](#overview) <!-- Resumo geral do que o projeto é -->
+- [Features](#features) <!-- Lista das principais funcionalidades -->
+- [Project Structure](#project-structure) <!-- Estrutura de pastas e arquivos -->
+- [Project Index](#project-index) <!-- Índice detalhado com descrição de módulos -->
+- [How to Use](#how-to-use) <!-- Guia geral de uso -->
+  - [Installation](#installation) <!-- Como instalar o projeto -->
+  - [Running the Bot](#running-the-bot) <!-- Como executar/rodar -->
+  - [Tests](#tests) <!-- Como testar ou validar -->
+- [Technical Details](#technical-details) <!-- Informações técnicas adicionais -->
+- [Roadmap](#roadmap) <!-- Futuras funcionalidades planejadas -->
+- [How to Contribute](#how-to-contribute) <!-- Como colaboradores podem ajudar -->
+- [Acknowledgments](#acknowledgments) <!-- Créditos e agradecimentos -->
+- [Support the Developer](#support-the-developer) <!-- Apoio/donations etc -->
+- [Contact](#contact) <!-- Formas de contato -->
+- [License](#license) <!-- Tipo de licença do projeto -->
+
+</details>
+
