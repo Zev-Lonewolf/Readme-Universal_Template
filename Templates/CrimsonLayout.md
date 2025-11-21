@@ -43,6 +43,7 @@
 <details><summary><b>📋 Table of Contents</b></summary>
 
 - [Overview](#overview) <!-- Resumo geral do que o projeto é -->
+  - [Why "Project Name"?}](#ㅤ---) <!-- CUIDADO! Tem um simbolo "Invisível" antes dos traços para manter um boa aparência. Ou seja, coloque somente o nome do projeto, depois faça outro tópico recolhivel como verá adiante -->
 - [Features](#features) <!-- Lista das principais funcionalidades -->
 - [Project Structure](#project-structure) <!-- Estrutura de pastas e arquivos -->
 - [Project Index](#project-index) <!-- Índice detalhado com descrição de módulos -->
@@ -59,4 +60,33 @@
 - [License](#license) <!-- Tipo de licença do projeto -->
 
 </details>
+
+<!-- OVERVIEW - General Project Description -->
+## Overview
+
+Provide a clear and concise description of the project.  
+Explain what the system does, what problems it solves, and the context in which it is intended to be used.
+
+Use this section to outline the core idea, the concept behind the project, and any relevant background information that helps readers understand its purpose.
+
+You may also include examples of typical use cases or scenarios where the project is beneficial.
+
+<!-- COLLAPSIBLE SUBSECTION - "Why This Project?" -->
+### ㅤ---
+<details><summary><b>Why "Project Name"?</b></summary>
+
+Example use-cases for this subsection include describing:
+
+- **Exemple One:** What core problem the project solves  
+- **Exemple Two:** How it improves a workflow, system, or user experience  
+- **Exemple Three:** What differentiates the project from similar tools  
+- **Exemple Four:** Which users or environments benefit most from it  
+- **Exemple Five:** Key advantages such as automation, stability, clarity, or scalability  
+- **Exemple Six:** Any essential motivations behind creating the project  
+
+Use this area to provide a concise explanation of *why the project exists* and *what makes it valuable*.
+
+</details>
+
+---
 
