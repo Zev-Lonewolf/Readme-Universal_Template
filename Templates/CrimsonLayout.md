@@ -42,10 +42,10 @@
 <!-- TABLE OF CONTENTS (edite apenas os textos dos tópicos abaixo) -->
 <details><summary><b>📋 Table of Contents</b></summary>
 
-- [Overview](#overview) <!-- Resumo geral do que o projeto é -->
+- [🧭 Overview](#overview) <!-- Resumo geral do que o projeto é -->
   - [Why "Project Name"?}](#ㅤ---) <!-- CUIDADO! Tem um simbolo "Invisível" antes dos traços para manter um boa aparência. Ou seja, coloque somente o nome do projeto, depois faça outro tópico recolhivel como verá adiante -->
-- [Features](#features) <!-- Lista das principais funcionalidades -->
-- [Project Structure](#project-structure) <!-- Estrutura de pastas e arquivos -->
+- [⚙️ Features](#features) <!-- Lista das principais funcionalidades -->
+- [📁 Project Structure](#project-structure) <!-- Estrutura de pastas e arquivos -->
 - [Project Index](#project-index) <!-- Índice detalhado com descrição de módulos -->
 - [How to Use](#how-to-use) <!-- Guia geral de uso -->
   - [Installation](#installation) <!-- Como instalar o projeto -->
@@ -62,7 +62,8 @@
 </details>
 
 <!-- OVERVIEW - General Project Description -->
-## Overview
+<a id="overview"></a>  <!-- Detalhe: para colocar com os emojis gere um id manualmente que nem esse aqui -->
+## 🧭 Overview
 
 Provide a clear and concise description of the project.  
 Explain what the system does, what problems it solves, and the context in which it is intended to be used.
@@ -89,7 +90,9 @@ Use this area to provide a concise explanation of *why the project exists* and *
 </details>
 
 ---
+
 <!-- FEATURES - Base section for any project -->
+<a id="features"></a> <!-- Detalhe: para colocar com os emojis gere um id manualmente que nem esse aqui -->
 ## ⚙️ Features
 
 <!-- 
@@ -111,3 +114,39 @@ Use this area to provide a concise explanation of *why the project exists* and *
 | ⚡ | **Performance**         | <!-- Coisas de otimização. Ex: "Lightweight operations and optimized workflows." --> |
 
 ---
+
+<!-- Project Structure -->
+<a id="project-structure"></a>
+## 📁 Project Structure
+
+<!-- Aqui você descreve o propósito desta seção -->
+A suggested placeholder section where you can provide the structure of your project and briefly explain the responsibility of each file or folder.  
+Keep it clear, minimal, and focused so anyone reading the README understands how the project is organized.
+
+<!-- Exemplo genérico de estrutura -->
+
+```sh
+ProjectName/
+├── src/                     # Core source code
+│   ├── main.ext             # Main entry point
+│   ├── module_one.ext       # First functional module
+│   ├── module_two.ext       # Second functional module
+│   └── utils/               # Utility helpers and shared logic
+│       ├── helper_one.ext
+│       └── helper_two.ext
+├── docs/                    # Documentation files
+│   ├── README.md            # Main project readme
+│   └── guides.md            # Additional guides or tutorials
+├── tests/                   # Automated tests
+│   ├── test_one.ext
+│   └── test_two.ext
+├── assets/                  # Images, icons, datasets, or static files
+│   ├── image.png
+│   └── sample.json
+├── LICENSE                  # Project license
+├── .gitignore               # Git ignore rules
+└── requirements.txt         # Dependencies list (or package.json, etc)
+```
+
+---
+
