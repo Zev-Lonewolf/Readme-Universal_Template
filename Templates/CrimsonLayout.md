@@ -89,4 +89,25 @@ Use this area to provide a concise explanation of *why the project exists* and *
 </details>
 
 ---
+<!-- FEATURES - Base section for any project -->
+## ⚙️ Features
 
+<!-- 
+  NOTE TO USER:
+  - "Category" = o nome da área principal da funcionalidade.
+  - "Description" = explicação curta, objetiva e útil.
+  - Mantenha entre 4 e 8 linhas no total para ficar limpo.
+  - Você pode trocar totalmente as categorias conforme o seu projeto, abaixo são somente exemplos.
+-->
+
+|      | Category          | Description |
+| :--- | :---------------- | :----------- |
+| 🎯 | **Core Functionality** | <!-- Coloque aqui o que o projeto realmente faz. Ex: "Central feature that defines the project's main purpose." --> |
+| 🛠️ | **System Structure**   | <!-- Adicione como o projeto é organizado. Ex: "Modular layout for easier maintenance and expansion." --> |
+| 📚 | **Language Support**   | <!-- Indique idiomas suportados. Ex: "Supports multiple languages with project-wide consistency." --> |
+| 🔍 | **Logging & Debugging** | <!-- Algo sobre logs. Ex: "Centralized logging to simplify debugging and monitoring." --> |
+| 🧩 | **Extensibility**       | <!-- Explique se o projeto aceita expansão. Ex: "Easily extendable modules for new features." --> |
+| 🛡️ | **Safety & Validation** | <!-- Regras de segurança. Ex: "Permission checks and validation to prevent misconfiguration." --> |
+| ⚡ | **Performance**         | <!-- Coisas de otimização. Ex: "Lightweight operations and optimized workflows." --> |
+
+---
