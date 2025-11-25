@@ -150,3 +150,72 @@ ProjectName/
 
 ---
 
+### 🔴 Project Index
+<!--
+    Esta seção serve para documentar toda a estrutura do projeto,
+    separada por pastas, com tabelas contendo descrição dos arquivos.
+    Você pode repetir o bloco <details> quantas vezes quiser.
+-->
+
+<details open>
+    <!-- Nome da pasta principal -->
+    <summary><b><code>project_root/</code></b></summary>
+    <!-- Bloco de um submódulo -->
+    <details>
+        <summary><b>src (Main Module)</b></summary>
+        <blockquote>
+            <!-- Caminho exibido acima da tabela -->
+            <div class='directory-path' style='padding: 8px 0; color: #666;'>
+                <code><b>⦿ src</b></code>
+            </div>
+            <table style='width: 100%; border-collapse: collapse;'>
+                <thead>
+                    <tr style='background-color: #f8f9fa;'>
+                        <th style='width: 30%; text-align: left; padding: 8px;'>File</th>
+                        <th style='text-align: left; padding: 8px;'>Description</th>
+                    </tr>
+                </thead>
+                <!-- Exemplo de linha -->
+                <tr style='border-bottom: 1px solid #eee;'>
+                    <td style='padding: 8px;'>
+                        <b><a href='./src/example.py'>example.py</a></b>
+                    </td>
+                    <td style='padding: 8px;'>
+                        - Entry point for the module<br>
+                        - Main logic implementation<br>
+                        - Handles core processing flow
+                    </td>
+                </tr>
+            </table>
+        </blockquote>
+    </details>
+    <!-- Outro módulo -->
+    <details>
+        <summary><b>utils (Utilities)</b></summary>
+        <blockquote>
+            <div class='directory-path' style='padding: 8px 0; color: #666;'>
+                <code><b>⦿ utils</b></code>
+            </div>
+            <table style='width: 100%; border-collapse: collapse;'>
+                <thead>
+                    <tr style='background-color: #f8f9fa;'>
+                        <th style='width: 30%; text-align: left; padding: 8px;'>File</th>
+                        <th style='text-align: left; padding: 8px;'>Description</th>
+                    </tr>
+                </thead>
+                <tr style='border-bottom: 1px solid #eee;'>
+                    <td style='padding: 8px;'>
+                        <b><a href='./src/utils/sample.py'>sample.py</a></b>
+                    </td>
+                    <td style='padding: 8px;'>
+                        - Helper utility<br>
+                        - Shared functions<br>
+                        - Common processing tasks
+                    </td>
+                </tr>
+            </table>
+        </blockquote>
+    </details>
+</details>
+
+---
