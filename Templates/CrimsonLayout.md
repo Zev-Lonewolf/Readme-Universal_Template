@@ -43,12 +43,12 @@
 <details><summary><b>📋 Table of Contents</b></summary>
 
 - [🧭 Overview](#overview) <!-- Resumo geral do que o projeto é -->
-  - [Why "Project Name"?}](#ㅤ---) <!-- CUIDADO! Tem um simbolo "Invisível" antes dos traços para manter um boa aparência. Ou seja, coloque somente o nome do projeto, depois faça outro tópico recolhivel como verá adiante -->
+  - [Why "Project Name"?}](#ㅤ---) <!-- CUIDADO! Tem um simbolo "Invisível" antes dos traços para manter um boa aparência. Ou seja, coloque somente o nome do projeto, depois faça outro tópico recolhivel como verá adiante. Esta etapa você tentará "vender" seu produto, cuidado para não repetir as partes das features -->
 - [⚙️ Features](#features) <!-- Lista das principais funcionalidades -->
 - [📁 Project Structure](#project-structure) <!-- Estrutura de pastas e arquivos -->
-- [Project Index](#project-index) <!-- Índice detalhado com descrição de módulos -->
-- [How to Use](#how-to-use) <!-- Guia geral de uso -->
-  - [Installation](#installation) <!-- Como instalar o projeto -->
+- [🗂️ Project Index](#project-index) <!-- Índice detalhado com descrição de módulos -->
+- [🧩 Get Started](#get-started) <!-- Guia geral de uso -->
+  - [Invite or Installation](#invite) <!-- Como instalar o projeto -->
   - [Running the Bot](#running-the-bot) <!-- Como executar/rodar -->
   - [Tests](#tests) <!-- Como testar ou validar -->
 - [Technical Details](#technical-details) <!-- Informações técnicas adicionais -->
@@ -148,9 +148,9 @@ ProjectName/
 └── requirements.txt         # Dependencies list (or package.json, etc)
 ```
 
----
+<a id="project-index"></a>
+### 🗂️ Project Index
 
-### 🔴 Project Index
 <!--
     Esta seção serve para documentar toda a estrutura do projeto,
     separada por pastas, com tabelas contendo descrição dos arquivos.
@@ -216,6 +216,88 @@ ProjectName/
             </table>
         </blockquote>
     </details>
+</details>
+
+---
+
+<a id="get-started"></a>
+## 🧩 Get Started
+<!-- Esta seção mostra duas formas comuns de começar com qualquer projeto: acessar uma instância já hospedada ou rodar o projeto localmente. -->
+
+This section outlines two common setup paths that can be used in most software projects:
+one for running the official instance (when available) and another for building the project locally from source.
+
+<a id="invite"></a>
+
+#### 🚀 Option A — Use the Official Instance
+<!-- Use esta opção caso o projeto ofereça uma instância pública ou hospedada que possa ser acessada imediatamente. -->
+
+If the project provides a hosted or publicly available instance, you can access it directly without installing anything locally.
+
+> **[Link to Official Instance](#)**
+> *(Replace this with the access, invitation, or deployment link for your project.)*
+
+This approach typically requires no setup and allows immediate interaction with the software.
+
+#### 🛠️ Option B — Build From Source
+<!-- Use esta opção se quiser rodar o projeto localmente, explorar o código ou modificar seu comportamento. -->
+
+For users who want to run the project locally, explore the codebase, or modify its behavior, building from source is the standard approach.
+
+<details>
+<summary><b>Show full installation steps</b></summary>
+
+#### **1. Clone the repository**
+<!-- Instruções genéricas de como clonar o repositório usando HTTPS ou SSH e acessar a pasta do projeto -->
+
+```bash
+git clone https://github.com/username/project-name.git
+cd project-name
+```
+
+#### **2. Install dependencies**
+<!-- Aqui você lista os pacotes, bibliotecas ou ambientes de execução necessários para rodar o projeto -->
+
+```bash
+npm install
+```
+
+or else:
+
+```bash
+pip install -r requirements.txt
+```
+
+#### **3. Configure environment variables**
+<!-- Explica como configurar variáveis de ambiente ou arquivos de configuração necessários para o projeto -->
+<!-- Crie um arquivo .env com variáveis de exemplo -->
+
+```env
+API_KEY=your_api_key_here
+DB_URL=your_database_url_here
+```
+
+#### **4. Run the project**
+<!-- Descreve como executar o projeto, seja via scripts, comandos diretos ou serviços -->
+
+```bash
+npm start
+```
+
+or else:
+
+```bash
+python main.py
+```
+
+#### **5. Optional: Development tools**
+<!-- Aqui você pode documentar ferramentas adicionais úteis para desenvolvedores, como linting, hot reload, testes automáticos, etc. -->
+<!-- Exemplo: iniciar watch mode ou ferramentas de lint -->
+
+```bash
+npm run dev
+```
+
 </details>
 
 ---
