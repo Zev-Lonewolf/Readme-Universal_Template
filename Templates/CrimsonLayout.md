@@ -56,7 +56,7 @@
     - [🧩 Running Locally (Developers Only)](#running-locally) <!-- Como executar/rodar -->
     - [🧪 Testing](#tests) <!-- Como testar ou validar -->
 - [🌈 Roadmap](#roadmap) <!-- Futuras funcionalidades planejadas -->
-- [How to Contribute](#how-to-contribute) <!-- Como colaboradores podem ajudar -->
+- [🤝 Contributing](#contributing) <!-- Como colaboradores podem ajudar -->
 - [Acknowledgments](#acknowledgments) <!-- Créditos e agradecimentos -->
 - [Support the Developer](#support-the-developer) <!-- Apoio/donations etc -->
 - [Contact](#contact) <!-- Formas de contato -->
@@ -439,24 +439,70 @@ Feel free to add code blocks, command examples, or scripts depending on your pro
 Use this section to outline the planned steps, upcoming features, and long-term goals for the project.  
 Checkmarks can represent completed tasks, while unchecked items indicate future milestones.
 
-Example structure:
-
-- [X] **Core Feature A:**  
   <!-- Comentário: descreva o que já está funcional no projeto -->
-  Implement the primary functionality that defines the project’s purpose.
-
-- [X] **Core Feature B:**  
+- [X] **Core Feature A:** Implement the primary functionality that defines the project’s purpose.
   <!-- Comentário: indique melhorias ou complementos já concluídos -->
-  Add supporting components or modules that enhance stability or usability.
-
-- [ ] **Planned Feature C:**  
+- [X] **Core Feature B:** Add supporting components or modules that enhance stability or usability.
   <!-- Comentário: algo futuro, ainda não iniciado -->
-  Introduce a new feature intended to expand the system’s capabilities.
-
-- [ ] **Planned Feature D:**  
+- [ ] **Planned Feature C:** Introduce a new feature intended to expand the system’s capabilities.
   <!-- Comentário: melhorias estruturais, integrações, ou refinamentos -->
-  Implement optional integrations, performance upgrades, or advanced tooling.
-
-- [ ] **Planned Feature E:**  
+- [ ] **Planned Feature D:** Implement optional integrations, performance upgrades, or advanced tooling.
   <!-- Comentário: objetivos de longo prazo -->
-  Add long-term enhancements, automation steps, or additional ecosystem support.
+- [ ] **Planned Feature E:** Add long-term enhancements, automation steps, or additional ecosystem support.
+
+---
+
+<a id="contributing"></a>
+## 🤝 Contributing
+<!-- Esta parte serve como porta de entrada rápida para colaboração no projeto -->
+<!-- To enable Discussions: Go to Settings → General → Features → Discussions → Enable. -->
+
+- **💬 [Open Discussions](https://github.com/Username/ProjectExemple/discussions):** Share insights, provide feedback, or ask questions  
+- **🐛 [Report Issues](https://github.com/Username/ProjectExemple/issues):** Submit bugs you find or request new features  
+- **💡 [Send Pull Requests](https://github.com/Username/ProjectExemple/pulls):** Review open PRs and send your contributions  
+<details closed>
+<summary>Contribution Guidelines</summary>
+
+<!-- Esta seção detalha como contribuir corretamente em qualquer projeto -->
+1. **Fork the Repository**
+   Make a personal copy of the project on your Git hosting platform.
+
+2. **Clone the Fork Locally**
+   <!-- O usuário deve substituir o link pelo do próprio projeto -->
+   
+   ```sh
+   git clone https://github.com/username/example-project
+   ```
+   
+3. **Create a New Branch**
+   <!-- O nome deve descrever a mudança de forma clara -->
+   
+   ```sh
+   git checkout -b feature/your-feature-name
+   ```
+
+4. **Make Your Changes**
+   Implement, document, and test modifications locally.
+
+5. **Commit Your Changes**
+   <!-- Mensagens objetivas ajudam no histórico do projeto -->
+   
+   ```sh
+   git commit -m "Short description of the update"
+   ```
+
+6. **Push to GitHub**
+
+   ```sh
+   git push origin feature/your-feature-name
+   ```
+
+7. **Open a Pull Request**
+   Submit the PR to the main repository, explaining the purpose and details of your changes.
+
+8. **Review & Merge**
+   After review and approval, the contribution is merged into the main branch.
+
+</details>
+
+---
