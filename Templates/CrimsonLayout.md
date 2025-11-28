@@ -57,7 +57,7 @@
     - [🧪 Testing](#tests) <!-- Como testar ou validar -->
 - [🌈 Roadmap](#roadmap) <!-- Futuras funcionalidades planejadas -->
 - [🤝 Contributing](#contributing) <!-- Como colaboradores podem ajudar -->
-- [Acknowledgments](#acknowledgments) <!-- Créditos e agradecimentos -->
+- [✨ Acknowledgments](#acknowledgments) <!-- Créditos e agradecimentos -->
 - [Support the Developer](#support-the-developer) <!-- Apoio/donations etc -->
 - [Contact](#contact) <!-- Formas de contato -->
 - [License](#license) <!-- Tipo de licença do projeto -->
@@ -504,5 +504,16 @@ Checkmarks can represent completed tasks, while unchecked items indicate future 
    After review and approval, the contribution is merged into the main branch.
 
 </details>
+
+---
+
+<a id="acknowledgments"></a>
+## ✨ Acknowledgments
+
+* **Core Libraries & Frameworks** — For providing the essential foundation the project is built upon  
+* **Developer Communities** — For shared knowledge, support, and accessible documentation  
+* **Contributors** — For improvements, fixes, ideas, and thoughtful collaboration  
+* **Users & Testers** — For feedback, validation, and real-world usage that help the project evolve  
+* **All supporting tools and technologies** — Editors, platforms, and software ecosystems that contributed to a smoother development process
 
 ---
