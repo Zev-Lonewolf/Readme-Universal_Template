@@ -55,8 +55,7 @@
     - [🔄 Navigation](#navigation) <!-- Ícones, navegação, botões, ações ou controles -->
     - [🧩 Running Locally (Developers Only)](#running-locally) <!-- Como executar/rodar -->
     - [🧪 Testing](#tests) <!-- Como testar ou validar -->
-- [Technical Details](#technical-details) <!-- Informações técnicas adicionais -->
-- [Roadmap](#roadmap) <!-- Futuras funcionalidades planejadas -->
+- [🌈 Roadmap](#roadmap) <!-- Futuras funcionalidades planejadas -->
 - [How to Contribute](#how-to-contribute) <!-- Como colaboradores podem ajudar -->
 - [Acknowledgments](#acknowledgments) <!-- Créditos e agradecimentos -->
 - [Support the Developer](#support-the-developer) <!-- Apoio/donations etc -->
@@ -430,3 +429,34 @@ Typical examples of what can go here:
 Feel free to add code blocks, command examples, or scripts depending on your project’s nature.
 
 </details>
+
+---
+
+<!-- ROADMAP - Future Plans / Milestones -->
+<a id="roadmap"></a>
+## 🌈 Roadmap
+
+Use this section to outline the planned steps, upcoming features, and long-term goals for the project.  
+Checkmarks can represent completed tasks, while unchecked items indicate future milestones.
+
+Example structure:
+
+- [X] **Core Feature A:**  
+  <!-- Comentário: descreva o que já está funcional no projeto -->
+  Implement the primary functionality that defines the project’s purpose.
+
+- [X] **Core Feature B:**  
+  <!-- Comentário: indique melhorias ou complementos já concluídos -->
+  Add supporting components or modules that enhance stability or usability.
+
+- [ ] **Planned Feature C:**  
+  <!-- Comentário: algo futuro, ainda não iniciado -->
+  Introduce a new feature intended to expand the system’s capabilities.
+
+- [ ] **Planned Feature D:**  
+  <!-- Comentário: melhorias estruturais, integrações, ou refinamentos -->
+  Implement optional integrations, performance upgrades, or advanced tooling.
+
+- [ ] **Planned Feature E:**  
+  <!-- Comentário: objetivos de longo prazo -->
+  Add long-term enhancements, automation steps, or additional ecosystem support.
