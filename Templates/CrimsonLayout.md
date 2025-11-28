@@ -48,9 +48,13 @@
 - [📁 Project Structure](#project-structure) <!-- Estrutura de pastas e arquivos -->
 - [🗂️ Project Index](#project-index) <!-- Índice detalhado com descrição de módulos -->
 - [🧩 Get Started](#get-started) <!-- Guia geral de uso -->
-  - [Invite or Installation](#invite) <!-- Como instalar o projeto -->
-  - [Running the Bot](#running-the-bot) <!-- Como executar/rodar -->
-  - [Tests](#tests) <!-- Como testar ou validar -->
+  - [🚀 Invite or Installation](#invite) <!-- Como instalar o projeto -->
+  - [🧠 Usage](#usage) 
+    - [🤖 Standard Usage (End Users)](#official-usage)
+    - [🧭 Workflow / Process Flow](#mode-flow)
+    - [🔄 Navigation](#navigation)
+    - [🧩 Running Locally (Developers Only)](#running-locally) <!-- Como executar/rodar -->
+    - [Tests](#tests) <!-- Como testar ou validar -->
 - [Technical Details](#technical-details) <!-- Informações técnicas adicionais -->
 - [Roadmap](#roadmap) <!-- Futuras funcionalidades planejadas -->
 - [How to Contribute](#how-to-contribute) <!-- Como colaboradores podem ajudar -->
@@ -228,7 +232,6 @@ This section outlines two common setup paths that can be used in most software p
 one for running the official instance (when available) and another for building the project locally from source.
 
 <a id="invite"></a>
-
 #### 🚀 Option A — Use the Official Instance
 <!-- Use esta opção caso o projeto ofereça uma instância pública ou hospedada que possa ser acessada imediatamente. -->
 
@@ -298,6 +301,106 @@ python main.py
 npm run dev
 ```
 
-</details>
+---
+
+<a id="usage"></a>
+### 🧠 Usage
+
+Provide clear instructions on how the project is intended to be used.
+This section should explain both the **standard usage path** and any **alternative methods** depending on the project's nature.
+
+Use this area to help users understand how to interact with the system effectively, whether through an interface, tool, module, or any other interaction method.
+
+<a id="official-usage"></a>
+#### 🤖 Standard Usage (End Users)
+
+<!-- Esta parte serve para descrever o uso comum, sem envolver desenvolvimento ou execução local. -->
+This subsection should describe how regular users interact with the project once it is already deployed or available.
+
+Typical examples include:
+
+* Accessing a hosted interface
+* Using provided tools or features
+* Interacting through a graphical interface or dashboard
+* Performing common actions defined by the project
+
+#### **Primary Features or Actions**
+<!-- Tabela genérica para qualquer tipo de ação, função ou operação que o usuário final possa executar. -->
+
+| Action / Feature | Alternate Names | Description                         | Access Level |
+| ---------------- | --------------- | ----------------------------------- | ------------ |
+| Action One       | Alias A, A1     | General description of what it does | User / Admin |
+| Action Two       | Alias B, B1     | Brief explanation of its purpose    | User / Admin |
+| Action Three     | Alias C, C1     | Summary of expected behavior        | User / Admin |
+| Action Four      | Alias D, D1     | When or why it is used              | User / Admin |
+
+Use this table to outline the main capabilities available to users.
+
+<a id="mode-flow"></a>
+#### 🧭 Workflow / Process Flow
+<!-- Esta parte explica fluxos comuns, como criação de itens, configuração inicial ou etapas guiadas. -->
+
+> **End users:**
+> If you are following the standard usage path, you may skip the development section and proceed directly to the instructions below.
+
+Provide a structured sequence of steps that describes a typical operation or workflow within the project, such as:
+
+1. Start the process
+2. Provide or select required information
+3. Choose related options or components
+4. Configure optional parameters
+5. Validate or confirm the action
+6. Finalize the process
+
+This section helps users understand how multi-step interactions work.
+
+<a id="navigation"></a>
+#### 🔄 Navigation / Controls
+<!-- Aplicável quando o projeto utiliza navegação por etapas, botões, confirmações ou interações semelhantes. -->
+
+Examples of navigation logic or interface controls may include:
+
+* **Next:** Moves to the following step
+* **Cancel:** Stops the current operation
+* **Back:** Returns to the previous step
+
+You can adjust this structure depending on the type of interaction offered by the project (UI, CLI, API, etc.).
+
+<a id="running-locally"></a>
+#### 🧩 Running Locally (Developers Only)
+<!-- Seção destinada para devs; usuários finais geralmente não precisam disso. -->
+> **Note:**
+> This section is intended for developers or contributors working with the project’s source code.
+
+Use this area to document how to run the project in a development environment, including:
+
+#### **1. Installation**
+Describe dependency installation or package setup, for example:
+
+```sh
+tool install dependencies
+```
+
+#### **2. Configuration**
+Explain required configuration files, environment variables, or project settings.
+
+#### **3. Execution**
+Provide commands or instructions to start the project, such as:
+
+```sh
+tool run main
+```
+
+#### **4. Optional Development Tools**
+Document:
+
+* Build tools
+* Testing scripts
+* Code-quality checks
+* Optional utilities
+
+This helps contributors understand the project's internal workflow.
 
 ---
+
+</details>
