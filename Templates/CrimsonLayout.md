@@ -49,10 +49,10 @@
 - [🗂️ Project Index](#project-index) <!-- Índice detalhado com descrição de módulos -->
 - [🧩 Get Started](#get-started) <!-- Guia geral de uso -->
   - [🚀 Invite or Installation](#invite) <!-- Como instalar o projeto -->
-  - [🧠 Usage](#usage) 
-    - [🤖 Standard Usage (End Users)](#official-usage)
-    - [🧭 Workflow / Process Flow](#mode-flow)
-    - [🔄 Navigation](#navigation)
+  - [🧠 Usage](#usage)  <!-- Como utilizar o software após instalado -->
+    - [🤖 Standard Usage (End Users)](#official-usage) <!-- Uso comum para quem só consome a aplicação -->
+    - [🧭 Workflow / Process Flow](#mode-flow) <!-- Fluxo de uso, passos, etapas ou processos operacionais -->
+    - [🔄 Navigation](#navigation) <!-- Ícones, navegação, botões, ações ou controles -->
     - [🧩 Running Locally (Developers Only)](#running-locally) <!-- Como executar/rodar -->
     - [Tests](#tests) <!-- Como testar ou validar -->
 - [Technical Details](#technical-details) <!-- Informações técnicas adicionais -->
