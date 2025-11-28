@@ -54,7 +54,7 @@
     - [🧭 Workflow / Process Flow](#mode-flow) <!-- Fluxo de uso, passos, etapas ou processos operacionais -->
     - [🔄 Navigation](#navigation) <!-- Ícones, navegação, botões, ações ou controles -->
     - [🧩 Running Locally (Developers Only)](#running-locally) <!-- Como executar/rodar -->
-    - [Tests](#tests) <!-- Como testar ou validar -->
+    - [🧪 Testing](#tests) <!-- Como testar ou validar -->
 - [Technical Details](#technical-details) <!-- Informações técnicas adicionais -->
 - [Roadmap](#roadmap) <!-- Futuras funcionalidades planejadas -->
 - [How to Contribute](#how-to-contribute) <!-- Como colaboradores podem ajudar -->
@@ -402,5 +402,31 @@ Document:
 This helps contributors understand the project's internal workflow.
 
 ---
+
+<!-- TESTS - Generic Testing Section -->
+<a id="tests"></a>
+### 🧪 Testing
+
+Provide clear instructions on how to test the project’s functionality, ensuring that contributors and maintainers know how to validate the system.
+
+Typical examples of what can go here:
+
+1. **Feature Test:**  
+   <!-- Explique aqui que esse teste serve para validar funcionalidades principais -->
+   Describe how to test a core feature or workflow to confirm it behaves as expected.
+
+2. **Validation Test:**  
+   <!-- Explique aqui que este teste verifica cenários de erro ou entradas inválidas -->
+   Include steps for testing invalid inputs, missing resources, or edge cases.
+
+3. **Permission / Access Test:**  
+   <!-- Indique que este teste garante que permissões estão corretas -->
+   Outline steps to confirm the system respects permission layers, authentication, or role-based access.
+
+4. **Localization / Configuration Test:**  
+   <!-- Comente que este teste valida idiomas, configs ou perfis -->
+   Show how to test different configurations such as language profiles or environment settings.
+
+Feel free to add code blocks, command examples, or scripts depending on your project’s nature.
 
 </details>
