@@ -56,10 +56,9 @@
     - [🧩 Running Locally (Developers Only)](#running-locally) <!-- Como executar/rodar -->
     - [🧪 Testing](#tests) <!-- Como testar ou validar -->
 - [🌈 Roadmap](#roadmap) <!-- Futuras funcionalidades planejadas -->
-- [🤝 Contributing](#contributing) <!-- Como colaboradores podem ajudar -->
+- [🤝 Contributing](#contributing) <!-- Como colaboradores podem ajudar, link de canais e fóruns de contato do projeto (Discord, Telegram, Reddit, etc)-->
 - [✨ Acknowledgments](#acknowledgments) <!-- Créditos e agradecimentos -->
-- [Support the Developer](#support-the-developer) <!-- Apoio/donations etc -->
-- [Contact](#contact) <!-- Formas de contato -->
+- [💖 Support the developers](#support-the-developers) <!-- Apoio/donations etc -->
 - [License](#license) <!-- Tipo de licença do projeto -->
 
 </details>
@@ -515,5 +514,20 @@ Checkmarks can represent completed tasks, while unchecked items indicate future 
 * **Contributors** — For improvements, fixes, ideas, and thoughtful collaboration  
 * **Users & Testers** — For feedback, validation, and real-world usage that help the project evolve  
 * **All supporting tools and technologies** — Editors, platforms, and software ecosystems that contributed to a smoother development process
+
+---
+
+<a id="support-the-developers"></a>
+## 💖 Support the developers
+Write your appreciation message here, directed to the users of your project.
+For example, you may mention that if the project helped someone, inspired them, or saved them time, it's common to suggest leaving a ⭐ on GitHub, as it helps increase the project's visibility and growth.
+
+You can also guide readers to follow the people behind the project to stay updated on new releases, improvements, and future work.
+Use this space to highlight that any form of support — stars, follows, feedback, or sharing — contributes to keeping the project active and evolving.
+
+* **Name1 — Project Owner & Lead Developer**  
+📎 https://github.com/Username
+* **Name2 — Technical Assistant & Co-Developer**  
+📎 https://github.com/Username
 
 ---
