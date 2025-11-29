@@ -59,7 +59,7 @@
 - [🤝 Contributing](#contributing) <!-- Como colaboradores podem ajudar, link de canais e fóruns de contato do projeto (Discord, Telegram, Reddit, etc)-->
 - [✨ Acknowledgments](#acknowledgments) <!-- Créditos e agradecimentos -->
 - [💖 Support the developers](#support-the-developers) <!-- Apoio/donations etc -->
-- [License](#license) <!-- Tipo de licença do projeto -->
+- [📜 License](#license) <!-- Tipo de licença do projeto -->
 
 </details>
 
@@ -531,3 +531,15 @@ Use this space to highlight that any form of support — stars, follows, feedbac
 📎 https://github.com/Username
 
 ---
+
+<a id="license"></a>
+## 📜 License
+
+This project is licensed under the **License Name**.
+For full details, see the [LICENSE](LICENSE) file.
+
+<p align="left">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back_to_Top_⭱-E92063?style=flat&logoColor=white" />
+  </a>
+</p>
